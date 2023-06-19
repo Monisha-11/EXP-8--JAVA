@@ -1,4 +1,4 @@
-# EXP-8 -> USING INHERITANCE ONE CLASS CAN ACQUIRE THE PROPERTIES OF OTHERS.
+# EXP 07 - USING INHERITANCE ONE CLASS CAN ACQUIRE THE PROPERTIES OF OTHERS.
 
 ## AIM:
 To Write the java program Using Inheritance one class can acquire the properties of others.
